@@ -20,5 +20,6 @@ Blogrammer uses this packages to enhance the project security and add some featu
 ### todo
 
 - [x] day 1 install the packagies  
-
+- [x] day 2 connect to stream lab
+- [ ] Make the design 
 
